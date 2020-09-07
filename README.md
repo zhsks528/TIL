@@ -1,4 +1,4 @@
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" alt="pushpin" style="zoom:30%;" /> Computer Science
+## Computer Science
 
 - ### Operating System
 
