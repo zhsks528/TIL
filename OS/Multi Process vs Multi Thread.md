@@ -9,7 +9,7 @@ emoji: "🖥️"
 
 ### 1. 멀티프로세스의 정의
 
-<img width="871" alt="멀티프로세스" src="https://user-images.githubusercontent.com/38130934/92362011-4c585800-f12a-11ea-841c-b190cc0060a9.png" style="zoom:50%;" >
+![멀티프로세스](https://raw.githubusercontent.com/zhsks528/TIL/master/Resource/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.png)
 
 - 하나의 응용프로그램을 여러 개의 프로세스로 구성하여 각 프로세스가 하나의 작업을 처리하도록 하는 것이다.
 
@@ -26,7 +26,7 @@ emoji: "🖥️"
 
 ### 3. 멀티 스레드의 정의
 
-<img width="852" alt="멀티스레드" src="https://user-images.githubusercontent.com/38130934/92362029-5417fc80-f12a-11ea-9b05-f040817bfe55.png" style="zoom:50%;" >
+![멀티스레드](https://raw.githubusercontent.com/zhsks528/TIL/master/Resource/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.png)
 
 - **하나의 응용프로그램을 여러 개의 스레드로 구성하고 각 스레드로 하여금 하나의 작업을 처리하도록 하는 것**이다.
 
@@ -37,6 +37,7 @@ emoji: "🖥️"
 ### 4. 멀티 스레드의 특징
 
 - 장점
+
   - 시스템 자원 소모 감소 (자원의 효율성 증대)
     - **프로세스를 생성하여 자원을 할당하는 시스템 콜이 줄어들어** 자원을 효율적으로 관리할 수 있다.
   - 시스템 처리량 증가 (처리 비용 감소)
@@ -57,7 +58,7 @@ emoji: "🖥️"
 - 멀티 프로세스 대신 멀티 스레드를 사용하는 것의 의미?
   - 프로그램을 여러 개 키는 것보다 하나의 프로그램 안에서 여러 작업을 해결하는 것이다.
 
-<img src="https://user-images.githubusercontent.com/38130934/92362034-54b09300-f12a-11ea-8e29-93551df07330.png" alt="멀티프로세스와 멀티스레드사용" style="zoom: 33%;" />
+![멀티프로세스와 멀티스레드](https://raw.githubusercontent.com/zhsks528/TIL/master/Resource/%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%82%AC%EC%9A%A9.png)
 
 - 여러 프로세스(멀티 프로세스)로 할 수 있는 작업들을 하나의 프로세스에서 여러 스레드로 나눠가면서 하는 이유?
   - 자원의 효율성 증대
@@ -69,7 +70,6 @@ emoji: "🖥️"
     - -> 스레드는 Stack 영역을 제외한 모든 메모리를 공유하기 때문
     - 프로세스 간의 전환 속도보다 스레드 간의 전환 속도가 빠르다.
     - -> Context Switching시 스레드는 Stack 영역만 처리하기 때문
-
 
 ### 참고 자료
 
