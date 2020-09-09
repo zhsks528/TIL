@@ -2,7 +2,7 @@
 title: "HTTP와 HTTPS"
 date: "2020-09-09T20:33:55.216Z"
 category: "cs"
-emoji: ""
+emoji: "🖥️"
 ---
 
 ## HTTP와 HTTPS
