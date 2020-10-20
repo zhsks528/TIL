@@ -1,10 +1,3 @@
----
-title: "운영체제란?"
-date: "2020-09-07T14:27:33.111Z"
-category: "cs"
-emoji: "🖥️"
----
-
 ## 운영체제란?
 
 ### 1. 운영체제의 정의
@@ -44,7 +37,3 @@ emoji: "🖥️"
 ### 참조
 
 - [운영체제란?](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operation%20System/Operation%20System.md)
-
-- https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d
-- [https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90](https://velog.io/@bathingape/JavaScript-var-let-const-차이점)
-- https://poiemaweb.com/es6-block-scope
