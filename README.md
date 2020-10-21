@@ -42,6 +42,7 @@
   - [이벤트 위임](https://github.com/zhsks528/TIL/blob/master/JavaScript/Event-delegate.md)
   - [== vs ===](https://github.com/zhsks528/TIL/blob/master/JavaScript/%3D%3D%20vs%20%3D%3D%3D.md)
   - [AJAX](https://github.com/zhsks528/TIL/blob/master/JavaScript/AJAX.md)
+  - [this](https://github.com/zhsks528/TIL/blob/master/JavaScript/this.md)
 
 ## Sofrware Enginerring
 
@@ -59,3 +60,8 @@
   - [하향식 통합 테스트 & 상향식 통합 테스트 & 혼합식 통합 테스트](https://github.com/zhsks528/TIL/blob/master/AplicationTest/Integration%20Test.md)
   - [애플리케이션 테스트 프로세스](https://github.com/zhsks528/TIL/blob/master/AplicationTest/Application%20Test%20Process.md)
   - [테스트 케이스 / 테스트 시나리오 / 테스트 오라클](https://github.com/zhsks528/TIL/blob/master/AplicationTest/Test%20Case%20%26%20Test%20Scenario%26Test%20Oracle.md)
+  
+- ### Programming Language
+
+  - [객체지향 언어란?](https://github.com/zhsks528/TIL/blob/master/Programming%20Language/Object-Oriented.md)
+ 
