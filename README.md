@@ -5,6 +5,7 @@
   - [운영체제란](https://github.com/zhsks528/TIL/blob/master/OS/Operation%20System.md)
   - [운영체제의 종류](https://github.com/zhsks528/TIL/blob/master/OS/Type%20of%20Operation%20System.md)
   - [운영체제 기본 명령어](https://github.com/zhsks528/TIL/blob/master/OS/Operation%20System%20Command.md)
+  - [메모리 구조](https://github.com/zhsks528/TIL/blob/master/OS/Memory%20Structure.md)
   - [프로세스 vs 스레드](https://github.com/zhsks528/TIL/blob/master/OS/Process%20vs%20Thread.md)
   - [멀티프로세스와 멀티스레드](https://github.com/zhsks528/TIL/blob/master/OS/Multi%20Process%20vs%20Multi%20Thread.md)
   - [컴파일 언어 vs 스크립트 언어](https://github.com/zhsks528/TIL/blob/master/OS/Compiled%20Language%20vs%20Scripting%20Language.md)
