@@ -1,6 +1,6 @@
 ## 메모리 구조
 
-![image-20201104152402139](C:\Users\SeongMin\AppData\Roaming\Typora\typora-user-images\image-20201104152402139.png)
+![메모리 구조](https://github.com/zhsks528/TIL/blob/master/Resource/Memory%20Structure.PNG)
 
 사진 주소 : http://tcpschool.com/c/c_memory_structure
 
