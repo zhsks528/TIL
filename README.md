@@ -39,7 +39,8 @@
   - [React vs Vue](https://github.com/zhsks528/TIL/blob/master/Web/React%20vs%20Vue.md)
 
 - ### JS
-
+  - [ES5 (ECMAScript 2009)](https://github.com/zhsks528/TIL/blob/master/JavaScript/ES5.md)
+  - [ES6 (ECMAScript 2015)](https://github.com/zhsks528/TIL/blob/master/JavaScript/ES6.md)
   - [이벤트 위임](https://github.com/zhsks528/TIL/blob/master/JavaScript/Event-delegate.md)
   - [== vs ===](https://github.com/zhsks528/TIL/blob/master/JavaScript/%3D%3D%20vs%20%3D%3D%3D.md)
   - [AJAX](https://github.com/zhsks528/TIL/blob/master/JavaScript/AJAX.md)
