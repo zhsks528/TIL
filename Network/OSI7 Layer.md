@@ -1,15 +1,9 @@
----
-title: "OSI 7계층"
-date: "2020-09-12T13:19:44.211Z"
-category: "cs"
-emoji: "🖥️"
----
 
 ## OSI 7계층
 
 ### 1. OSI 7 계층 정의
 
-OSI는 **Open System Interconnection**의 약자로써 **ISO(국제표준화기구)에서 제안한 통신 규악**으로, 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 것이다.
+OSI는 **Open System Interconnection**의 약자로써 **ISO(국제표준화기구)에서 제안한 통신 규**으로, 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 것이다.
 
 ![OSI7계층](https://raw.githubusercontent.com/zhsks528/TIL/master/Resource/OSI.PNG)
 
@@ -70,7 +64,7 @@ OSI는 **Open System Interconnection**의 약자로써 **ISO(국제표준화기�
 
 세션 계층(Session layer)은 **송, 수신 측 간의 관련성을 유지하고 대화 제어를 담당**한다.
 
-- 송, 수신 측 간의 대화 동기를 위해 전송하는 정보의 일정한 부분에 체크점을 두어 정보의 수신 상태를 체크하며, 이때의 체크점을 **동기점(Synchronization Point)**이라고 한다.
+- 송, 수신 측 간의 대화 동기를 위해 전송하는 정보의 일정한 부분에 체크점을 두어 정보의 수신 상태를 체크하며, 이때의 체크점을 **동기점(Synchronization Point)** 이라고 한다.
   - 동기점은 오류가 있는 데이터의 회복을 위해 사용하는 것으로, 종류에는 소동기점과 대동기점이 있다.
   - **소동기점**
     - 소동기점은 **하나의 대화 단위 내에서 데이터의 전달을 제어하는 역할**을 한다.
