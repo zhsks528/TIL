@@ -1,10 +1,3 @@
----
-title: "CSR & SSR"
-date: "2020-09-12T14:32:55.661Z"
-category: "fe"
-emoji: ""
----
-
 ## CSR & SSR 
 
 ### 1. CSR & SSR의 경계
