@@ -204,7 +204,7 @@ Array를 순환하면서 **조건을 만족하는 첫번째 element의 index를 
 
 ```js
 var numbers = [4, 9, 16, 25, 29];
-var first = numbers.find(myFunction);
+var first = numbers.findIndex(myFunction);
 
 // value : 배열 안의 element
 // index : 배열의 index
