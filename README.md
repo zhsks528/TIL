@@ -13,6 +13,11 @@
   - [계산집중작업과 입출력집중작업](https://github.com/zhsks528/TIL/blob/master/OS/Computation-Intensive%20vs%20IO-Intensive.md)
   - [교착상태(DeadLock)](https://github.com/zhsks528/TIL/blob/master/OS/DeadLock.md)
 
+- ### Data Structure
+
+  - [Queue](https://github.com/zhsks528/TIL/blob/master/DataStructure/Queue.md)
+  - [Stack](https://github.com/zhsks528/TIL/blob/master/DataStructure/Stack.md)
+
 - ### Network
 
   - [OSI 7계층이란](https://github.com/zhsks528/TIL/blob/master/Network/OSI7%20Layer.md)
@@ -21,7 +26,7 @@
   - [HTTP vs HTTPS](https://github.com/zhsks528/TIL/blob/master/Network/HTTP%20vs%20HTTPS.md)
   - [GET Method vs POST Method](https://github.com/zhsks528/TIL/blob/master/Network/GET%20vs%20POST.md)
   - [클라우드 컴퓨팅이란](https://github.com/zhsks528/TIL/blob/master/Network/Cloud%20Computing.md)
-  
+
 - ### Database
 
   - [데이터베이스 종류](https://github.com/zhsks528/TIL/blob/master/DataBase/Type%20of%20Database.md)
@@ -45,6 +50,7 @@
   - [== vs ===](https://github.com/zhsks528/TIL/blob/master/JavaScript/%3D%3D%20vs%20%3D%3D%3D.md)
   - [AJAX](https://github.com/zhsks528/TIL/blob/master/JavaScript/AJAX.md)
   - [this](https://github.com/zhsks528/TIL/blob/master/JavaScript/this.md)
+  - [Debounce & Throttle](https://github.com/zhsks528/TIL/blob/master/JavaScript/Debounce%20%26%20Throttle.md)
 
 ## Sofrware Enginerring
 
@@ -62,8 +68,7 @@
   - [하향식 통합 테스트 & 상향식 통합 테스트 & 혼합식 통합 테스트](https://github.com/zhsks528/TIL/blob/master/AplicationTest/Integration%20Test.md)
   - [애플리케이션 테스트 프로세스](https://github.com/zhsks528/TIL/blob/master/AplicationTest/Application%20Test%20Process.md)
   - [테스트 케이스 / 테스트 시나리오 / 테스트 오라클](https://github.com/zhsks528/TIL/blob/master/AplicationTest/Test%20Case%20%26%20Test%20Scenario%26Test%20Oracle.md)
-  
+
 - ### Programming Language
 
   - [객체지향 언어란?](https://github.com/zhsks528/TIL/blob/master/Programming%20Language/Object-Oriented.md)
- 
